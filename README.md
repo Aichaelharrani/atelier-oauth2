@@ -1,8 +1,9 @@
 # Atelier OAuth 2.0 et OpenID Connect
 
 **Module :** Sécurité des systèmes distribués
-**Étudiante :** Aicha
+**Étudiante :** Aicha EL HARRANI
 **École :** ENSET Mohammedia
+**Filière:** CCN-3
 
 ## 1. Objectif
 
